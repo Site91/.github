@@ -1,4 +1,4 @@
-<p align="center"> <img alt="SCP Logo" width="880" height="300" src="[https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg](https://github.com/user-attachments/assets/c00f7d0b-5878-4f04-a605-f7945b042655)" /></p>
+<p align="center"><img alt="SCP Logo" width="300" height="300" src="https://github.com/user-attachments/assets/c00f7d0b-5878-4f04-a605-f7945b042655" /></p>
 
 # 👋 Hi there!
 
